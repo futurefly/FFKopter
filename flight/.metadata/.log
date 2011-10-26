@@ -1,0 +1,12 @@
+!SESSION 2011-10-26 15:04:03.029 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_24
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=sk_SK
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 4 4 2011-10-26 15:04:12.738
+!MESSAGE Unable to find view with id: com.crt.trueview.views.DisassemblyViewer, when creating perspective com.crt.lite.perspective.CRTPerspective
+
+!ENTRY org.eclipse.cdt.core 1 0 2011-10-26 15:04:37.629
+!MESSAGE Indexed 'PiOS' (0 sources, 19 headers) in 0,46 sec: 161 declarations; 46 references; 5 unresolved inclusions; 0 syntax errors; 0 unresolved names (0,00%)
