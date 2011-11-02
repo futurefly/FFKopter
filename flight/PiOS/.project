@@ -3,6 +3,7 @@
 	<name>PiOS</name>
 	<comment></comment>
 	<projects>
+		<project>PiOS</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
